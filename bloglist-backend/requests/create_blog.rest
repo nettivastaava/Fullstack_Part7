@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+Authorization: 
+
+{
+  "title": "Harjulan taistelu II",
+  "author": "Heimo Huima",
+  "url": "/api/blogs",
+  "likes": 7,
+  "userId": "5f8b2b92c8a1ba13cd437df2"
+}

@@ -1,0 +1,6 @@
+POST http://localhost:3001/api/blogs/5fa91b7e7e93b73e79342b9e
+Content-Type: application/json
+
+{
+  "content": "Kipeetä!"
+}
